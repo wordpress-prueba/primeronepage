@@ -1,1 +1,32 @@
 /* STYLES */
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #18BC9C;
+	text-align: center;
+	color: #fff;
+	height: 100vh;
+	padding: 100px;
+	box-sizing: border-box;
+}
+
+.header-title {
+	font-size: 60px;
+	margin-bottom: 30px
+}
+
+.header-divider {
+	border: none;
+	border-bottom: solid 5px #fff;
+	width: 300px;
+	margin: auto;
+	margin-bottom: 30px;
+}
+
+.header-span {
+	font-size: 25px;
+}
